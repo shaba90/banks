@@ -5,7 +5,7 @@ document.getElementById("loginForm").addEventListener("submit", function(event) 
     var password = document.getElementById("password").value;
   
     // Perform verification
-    if (username === "Bancosantander@gmail.com" && password === "Bancosan007") {
+    if (username === "wilsonmore@gmail.com" && password === "wilson007") {
       // Redirect to another page
       window.location.href = "nextt.html";
     } else {
